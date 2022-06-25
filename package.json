@@ -1,0 +1,15 @@
+{
+  "name": "solidity_build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "bin":{
+    "sol":"./build.sh"
+  },
+  "scripts": {
+    "help": "echo 请使用 npm i -g 安装工具 然后执行 sol [生成的文件夹名] 直接生成即可"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
